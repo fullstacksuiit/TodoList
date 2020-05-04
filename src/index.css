@@ -1,0 +1,30 @@
+body {
+    background: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+}
+
+.btn {
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    margin: 20px;
+}
+
+.add-btn {
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    width: 40px;
+    height: 40px;
+    color: white;
+    text-align: center;
+}
+
+.app-title {
+    text-align: center;
+    color: red;
+    font-size: 70px;
+}
+
+.container {
+    border: 5px solid orange;
+    border-radius: 25px;
+}
