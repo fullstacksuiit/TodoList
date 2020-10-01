@@ -62,7 +62,7 @@ class App extends React.Component {
           <input
             type="text"
             placeholder="Type item here"
-            style={{ "width": "400px", "height": "50px" }}
+            style={{ "width": "450px", "height": "50px" }}
             value={this.state.newItem}
             onChange={e => this.updateInput("newItem", e.target.value)}
           />&nbsp;&nbsp;
